@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+    font-style: oblique;
+    background-color: rgb(184, 71, 71);
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.image{
+    text-align: center;
+    width: 300px;
+    padding-top: 10px;
+   padding-left: 500px;
+}
+h2{
+    font-size: 30;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(184, 71, 71);
+}
+footer{
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+*{
+    background-color: rgb(243, 220, 220);
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+    font-style: normal;
+}
